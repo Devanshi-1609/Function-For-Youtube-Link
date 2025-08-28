@@ -1,0 +1,8 @@
+name: youtube-link-function
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - youtubesearchpython
